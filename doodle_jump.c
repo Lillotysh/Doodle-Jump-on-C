@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+//zalupa
+
 struct stairs
 {
     int x;
